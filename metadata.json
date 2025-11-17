@@ -1,0 +1,5 @@
+{
+  "name": "Pizza Maker Math Challenge",
+  "description": "A fun, fast-paced game where users fulfill pizza orders by adding the correct number of toppings. The game features increasing levels of difficulty, a timer, bonus points, and a high score table. It's designed to be an engaging math challenge with animations.",
+  "requestFramePermissions": []
+}
